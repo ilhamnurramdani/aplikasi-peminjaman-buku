@@ -6,7 +6,6 @@ Aplikasi web sederhana untuk mengelola peminjaman buku di perpustakaan menggunak
 
 ## 🚀 Fitur Utama
 
-- 🔐 Login Admin
 - 📦 Manajemen Data Buku (tambah, ubah, hapus, cari)
 - 👥 Manajemen Anggota (peminjam)
 - 📊 Laporan Riwayat Peminjaman
